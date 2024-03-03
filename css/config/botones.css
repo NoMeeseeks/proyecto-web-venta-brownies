@@ -1,0 +1,67 @@
+/* Botones */
+.btn {
+    font-size: 1.2rem;
+    font-weight: 700;
+
+    border: none;
+    color: white;
+    padding: 14px 28px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.btnc {
+    border: none;
+    color: white;
+    padding: 14px 28px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+/* 
+FFF7F1
+FFE4C9
+E78895
+BED1CF
+*/
+
+.primary {
+    background-color: #0b7dda;
+}
+
+.primary:hover {
+    background: #0b7dda;
+}
+
+.secondary {
+    background-color: #e7e7e7;
+    color: black;
+}
+
+.secondary:hover {
+    background: #ddd;
+}
+
+.success {
+    background-color: #04AA6D;
+}
+
+.success:hover {
+    background-color: #46a049;
+}
+
+.warning {
+    background-color: #ff9800;
+}
+
+.warning:hover {
+    background: #e68a00;
+}
+
+.danger {
+    background-color: #f44336;
+}
+
+.danger:hover {
+    background: #da190b;
+}
